@@ -1,0 +1,12 @@
+
+.cartCountNumber{
+    position: absolute;
+    top: -20%;
+    left: 55%;
+    padding: 3px 7px;
+    font-size: 12px;
+}
+
+.iconFont{
+    font-size: 27px;
+}

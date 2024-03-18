@@ -1,0 +1,7 @@
+.brands{
+    transition: 0.2s box-shadow ease-in-out;
+}
+
+.brands:hover{
+ box-shadow: 0 0 10px #0aad0a;
+}

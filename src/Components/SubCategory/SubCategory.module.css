@@ -1,0 +1,12 @@
+.subcategories{
+    transition: 0.2s box-shadow ease-in-out;
+    border: 1px solid rgb(216, 216, 216);
+    border-radius: 6px;
+    text-align: center;
+    padding: 18px;
+    font-size: 20px;
+}
+
+.subcategories:hover {
+    box-shadow: 0 0 10px #0aad0a;
+}

@@ -1,0 +1,6 @@
+.password{
+    transition: 0.2s color ease-in-out;
+}
+.password:hover{
+    color: #0aad0a;
+}
